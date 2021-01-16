@@ -17,6 +17,9 @@
 - Azure Functions with hands-on mini-project (30 min)
 - QnA (10 min)
 
+## Connect with me
+![](./images/connect.jpg)
+
 ## Resources
 ##### Serverless with GraphQL on Azure Functions
 - https://medium.com/@ramanaditya/serverless-with-graphql-c0bf59078303 
