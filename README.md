@@ -1,6 +1,8 @@
 # Gold Weekly Workshop Series - Azure Functions
 ![Intro](./images/intro.jpg)
 
+**Azure Functions** is a serverless compute service that lets you run event-triggered code without having to explicitly provision or manage infrastructure. It allows you to implement your system's logic into readily-available blocks of code called "functions". Also it is cost effective, auto scalable and easy deployable.
+
 ## Benefits of Attending the Session
 
 - How to prepare for the workshop?
@@ -16,6 +18,14 @@
 - Serverless Computing (15 min)
 - Azure Functions with hands-on mini-project (30 min)
 - QnA (10 min)
+
+> Prerequisites: None
+
+## Schedule
+Date: Jan 16' 2021
+Time:
+ - 21:00 - 22:00 (IST)
+ - 7:30 - 8:30 (PST/PDT)
 
 ## Connect with me
 ![](./images/connect.jpg)
